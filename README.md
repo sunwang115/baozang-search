@@ -1,14 +1,16 @@
 演示站点：[宝藏郎搜剧 - 搜索页面](https://baoys.baozang.asia/)
 
-![截图1](docs/images\screenshot1.png)
+![截图1](docs/images/screenshot1.png)
 
-![截图2](docs/images\screenshot2.png)
+![截图2](docs/images/screenshot2.png)
 
-![截图3](docs/images\screenshot3.png)
+![截图3](docs/images/screenshot3.png)
 
-![截图4](docs/images\screenshot4.png)支持API返回可以对接其他地方例如心悦盘搜可以对接这个API
+![截图4](docs/images/screenshot4.png)
 
-![截图5](docs/images\screenshot5.png)![](<file:///C:\Users\Administrator\Documents\Tencent Files\647015850\nt_qq\nt_data\Pic\2026-06\Ori\e99d18d5f4e4ca6b3e42cb68a546b98e.png>)
+支持API返回可以对接其他地方例如心悦盘搜可以对接这个API
+
+![截图5](docs/images/screenshot5.png)
 
 ***
 
